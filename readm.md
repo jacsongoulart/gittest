@@ -7,3 +7,7 @@
 # another alteration
 
 # another change
+
+git push
+git fetch
+git pull
